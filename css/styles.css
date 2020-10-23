@@ -1,0 +1,32 @@
+h1 
+{
+    font-size:30px;
+    color:pink;
+}
+
+h2
+{
+    font-size:20px;
+    color:lightsteelblue;
+    text-align: center;
+}
+
+.grande
+{
+    font-size:50px;
+}
+
+.maiuscula
+{
+    text-transform: uppercase;
+}
+
+.grande.maiuscula
+{
+    text-shadow: 6px 6px 8px rgb(87, 52, 85);
+}
+
+h1 span
+{
+    color: violet;
+}
