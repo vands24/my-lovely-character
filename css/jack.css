@@ -48,10 +48,16 @@ main img
     max-width: 100%;
 }
 
+main ul
+{
+    padding-top: 10px;
+}
+
 h2
 {
     font-size: 25px;
     color: rgb(78, 88, 134);
+    padding-top: 30px;
 }
 
 p
